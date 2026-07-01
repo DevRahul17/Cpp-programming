@@ -1,3 +1,4 @@
+/*----------Swapping of two number using & in friend functions----------*/
 #include<iostream>
 using namespace std;
 
