@@ -21,7 +21,7 @@ class complex{
     complex();//Constructor declaration
 };
 
-complex :: complex(){//Construction definition
+complex :: complex(){//Construction definition and default constructor 
     a = 10;
     b = 20;
     c = 30;
